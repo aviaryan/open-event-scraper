@@ -147,6 +147,7 @@ def parse_row(row, last_speaker, last_session, current_track):
     # set start time only the first time we encounter a session, but update end time for ever row
     # we encounter this session
     session_time = parse_time(row["Date"] + " " + row["Time"])
+
     if session_time is not None:
         session.end_time = (session_time + SESSION_LENGTH).isoformat() # TODO: +30 minutes
         if not hasattr(session, 'start_time'):
@@ -182,9 +183,10 @@ def parse_row(row, last_speaker, last_session, current_track):
     return (speaker, session)
 
 
-DATE_FORMATS = ["%Y %A %B %d %I:%M %p", "%Y %A %B %d %I.%M %p"]
+DATE_FORMATS = ["%Y %A %B %d %I:%M %p", "%Y %A %B %d %I.%M %p", "%A %B %d, %Y %I:%M"]
 
 def parse_time(time_str):
+    print time_str
     # Fix up year first, some of them may not have it
     iso_date = None
     if YEAR_OF_CONF not in time_str:

@@ -15,9 +15,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-04T22:00:00+00:00",
     "session_id": "OT-01",
     "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-04T22:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -35,9 +37,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-04T22:20:00+00:00",
     "session_id": "OT-02",
     "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-04T22:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -55,9 +59,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-04T22:40:00+00:00",
     "session_id": "OT-65",
     "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-04T23:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -559,9 +565,11 @@
       "name": "Workshops",
       "id": 4
     },
+    "start_time": "2016-05-05T08:00:00+00:00",
     "session_id": "W-1",
     "location": "Level 3",
-    "type": "Workshop, 2h"
+    "type": "Workshop, 2h",
+    "end_time": "2016-05-05T08:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -579,9 +587,11 @@
       "name": "Workshops",
       "id": 4
     },
+    "start_time": "2016-05-05T09:00:00+00:00",
     "session_id": "W-2",
     "location": "Level 3",
-    "type": "Workshop"
+    "type": "Workshop",
+    "end_time": "2016-05-05T09:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -639,9 +649,11 @@
       "name": "Zertifizierung",
       "id": 5
     },
+    "start_time": "2016-05-05T09:00:00+00:00",
     "session_id": "Z-1",
     "location": "Level 4",
-    "type": "Zertifizierung"
+    "type": "Zertifizierung",
+    "end_time": "2016-05-05T09:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -699,9 +711,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-1",
     "location": "Level 5",
-    "type": "workshop"
+    "type": "workshop",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -719,9 +733,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-2",
     "location": "Level 5",
-    "type": "Kids Maker Space"
+    "type": "Kids Maker Space",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -739,9 +755,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-3",
     "location": "Level 5",
-    "type": "Kids Maker Space"
+    "type": "Kids Maker Space",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -759,9 +777,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-4",
     "location": "Level 5",
-    "type": "Exhibition Area"
+    "type": "Exhibition Area",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -779,9 +799,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-5",
     "location": "Level 5",
-    "type": "Exhibition Area, Table with Laptops, cushions"
+    "type": "Exhibition Area, Table with Laptops, cushions",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -799,9 +821,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-6",
     "location": "Level 5",
-    "type": "Workshop/Exhibition"
+    "type": "Workshop/Exhibition",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -819,9 +843,11 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-7",
     "location": "Level 5",
-    "type": "Exhibition"
+    "type": "Exhibition",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -839,8 +865,10 @@
       "name": "MakerSpace",
       "id": 6
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-8",
     "location": "Level 5",
-    "type": "Exhibition"
+    "type": "Exhibition",
+    "end_time": "2016-05-05T08:00:00+00:00"
   }
 ]}
