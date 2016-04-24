@@ -16,13 +16,13 @@ from models import *
 # Should have all track information
 # ID Prefix = should be unique across tracks
 # Color code
-SHEET_ID = '1QeAyxbEc1fP9h5_kGQh-EVrx5RaYgbKFJBE9wUjIdvc'
-SHEET_VERSIONING_GID = '1847379562'
+SHEET_ID = '1KzZ0YVSQMw3BJfiDm80Pzq3o2QJ6Fv7iKMKUuhyw5jo'
+SHEET_VERSIONING_GID = '1228727534'
 
 # We assume each row represents a time interval of 30 minutes and use that to calculate end time 
 SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
-TZ_LOCAL = pytz.timezone('Asia/Hong_Kong')
+TZ_LOCAL = pytz.timezone('Europe/Berlin')
 
 # Provide year of conference in case the date is impossible to parse
 YEAR_OF_CONF = '2016'
@@ -154,7 +154,7 @@ def parse_row(row, last_speaker, last_session, current_track):
 
     # only update attributes not already set
     if not hasattr(session, 'title'):
-        maybe_title = row["Topic or Name of proposed talk, workshop or project"]
+        maybe_title = row["Topic of your contribution"]
         if not maybe_title and speaker is not None:
             # print('use speaker name' + speaker.name)
             maybe_title = speaker.name
@@ -164,7 +164,7 @@ def parse_row(row, last_speaker, last_session, current_track):
     if not hasattr(session, 'description'):
         session.description = row["Abstract of talk or project"]
     if not hasattr(session, 'type'):
-        session.type = row["Type"]
+        session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):
         session.track = {'id': track.id, 'name': track.name, 'order': track.order}
     if not hasattr(session, 'location'):
