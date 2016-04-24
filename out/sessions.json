@@ -15,11 +15,11 @@
       "name": "Galerie",
       "id": 2
     },
-    "start_time": "2016-05-04T22:00:00+00:00",
+    "start_time": "2016-05-05T10:00:00+00:00",
     "session_id": "OT-01",
-    "location": "Level 1",
+    "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-04T22:30:00+00:00"
+    "end_time": "2016-05-05T10:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -37,11 +37,11 @@
       "name": "Galerie",
       "id": 2
     },
-    "start_time": "2016-05-04T22:20:00+00:00",
+    "start_time": "2016-05-05T10:20:00+00:00",
     "session_id": "OT-02",
-    "location": "Level 1",
+    "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-04T22:50:00+00:00"
+    "end_time": "2016-05-05T10:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -59,11 +59,11 @@
       "name": "Galerie",
       "id": 2
     },
-    "start_time": "2016-05-04T22:40:00+00:00",
+    "start_time": "2016-05-05T10:40:00+00:00",
     "session_id": "OT-65",
-    "location": "Level 1",
+    "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-04T23:10:00+00:00"
+    "end_time": "2016-05-05T11:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -81,9 +81,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T11:00:00+00:00",
     "session_id": "OT-03",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T11:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -101,9 +103,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T11:20:00+00:00",
     "session_id": "OT-04",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T11:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -121,9 +125,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T11:40:00+00:00",
     "session_id": "OT-05",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T12:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -141,9 +147,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "OT-66",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -161,9 +169,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T12:20:00+00:00",
     "session_id": "OT-06",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T12:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -181,9 +191,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T12:40:00+00:00",
     "session_id": "OT-08",
-    "location": "Level 1",
-    "type": "Panel"
+    "location": "Room 1",
+    "type": "Panel",
+    "end_time": "2016-05-05T13:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -201,9 +213,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T13:00:00+00:00",
     "session_id": "OT-07",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -221,9 +235,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T13:20:00+00:00",
     "session_id": "OT-09",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T13:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -241,9 +257,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T13:40:00+00:00",
     "session_id": "OT-10",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T14:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -261,9 +279,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T14:00:00+00:00",
     "session_id": "OT-14",
-    "location": "Level 1",
-    "type": "Talk mit Live-Hack (20 Minuten)"
+    "location": "Room 1",
+    "type": "Talk mit Live-Hack (20 Minuten)",
+    "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -281,9 +301,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T14:20:00+00:00",
     "session_id": "OT-57",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T14:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -301,9 +323,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T14:40:00+00:00",
     "session_id": "OT-11",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T15:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -321,9 +345,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T15:00:00+00:00",
     "session_id": "OT-64",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T15:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -341,9 +367,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T15:20:00+00:00",
     "session_id": "OT-13",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T15:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -361,9 +389,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T15:40:00+00:00",
     "session_id": "OT-12",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T16:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -381,9 +411,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T16:00:00+00:00",
     "session_id": "OT-16",
-    "location": "Level 1",
-    "type": "Talk of 25 minutes"
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T16:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -401,9 +433,11 @@
       "name": "Galerie",
       "id": 2
     },
+    "start_time": "2016-05-05T16:20:00+00:00",
     "session_id": "OT-17",
-    "location": "Level 1",
-    "type": "Lightning Talk (5-10 minutes)"
+    "location": "Room 1",
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T16:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -421,9 +455,11 @@
       "name": "Lightning Talks",
       "id": 3
     },
+    "start_time": "2016-05-05T11:00:00+00:00",
     "session_id": "LT-1",
-    "location": "Level 2",
-    "type": "Lightning Talk (5-10 minutes)"
+    "location": "Room 2",
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T11:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -441,9 +477,11 @@
       "name": "Lightning Talks",
       "id": 3
     },
+    "start_time": "2016-05-05T11:10:00+00:00",
     "session_id": "LT-2",
-    "location": "Level 2",
-    "type": "Lightning Talk (5-10 minutes)"
+    "location": "Room 2",
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T11:40:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -461,93 +499,11 @@
       "name": "Lightning Talks",
       "id": 3
     },
+    "start_time": "2016-05-05T11:20:00+00:00",
     "session_id": "LT-3",
-    "location": "Level 2",
-    "type": "Lightning Talk (5-10 minutes)"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "order": 3,
-      "name": "Lightning Talks",
-      "id": 3
-    },
-    "session_id": "LT-4",
-    "location": "Level 2",
-    "type": ""
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "order": 3,
-      "name": "Lightning Talks",
-      "id": 3
-    },
-    "session_id": "LT-5",
-    "location": "Level 2",
-    "type": ""
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "order": 3,
-      "name": "Lightning Talks",
-      "id": 3
-    },
-    "session_id": "LT-6",
-    "location": "Level 2",
-    "type": ""
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "order": 3,
-      "name": "Lightning Talks",
-      "id": 3
-    },
-    "session_id": "LT-7",
-    "location": "Level 2",
-    "type": ""
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "order": 3,
-      "name": "Lightning Talks",
-      "id": 3
-    },
-    "session_id": "LT-8",
-    "location": "Level 2",
-    "type": ""
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "",
-    "track": {
-      "order": 3,
-      "name": "Lightning Talks",
-      "id": 3
-    },
-    "session_id": "LT-9",
-    "location": "Level 2",
-    "type": ""
+    "location": "Room 2",
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T11:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -567,7 +523,7 @@
     },
     "start_time": "2016-05-05T08:00:00+00:00",
     "session_id": "W-1",
-    "location": "Level 3",
+    "location": "Room 3",
     "type": "Workshop, 2h",
     "end_time": "2016-05-05T08:30:00+00:00"
   },
@@ -589,7 +545,7 @@
     },
     "start_time": "2016-05-05T09:00:00+00:00",
     "session_id": "W-2",
-    "location": "Level 3",
+    "location": "Room 3",
     "type": "Workshop",
     "end_time": "2016-05-05T09:30:00+00:00"
   },
@@ -609,9 +565,11 @@
       "name": "Workshops",
       "id": 4
     },
+    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "W-3",
-    "location": "Level 3",
-    "type": "Workshop"
+    "location": "Room 3",
+    "type": "Workshop",
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -629,9 +587,11 @@
       "name": "Workshops",
       "id": 4
     },
+    "start_time": "2016-05-05T14:00:00+00:00",
     "session_id": "W-4",
-    "location": "Level 3",
-    "type": "Workshop"
+    "location": "Room 3",
+    "type": "Workshop",
+    "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -651,7 +611,7 @@
     },
     "start_time": "2016-05-05T09:00:00+00:00",
     "session_id": "Z-1",
-    "location": "Level 4",
+    "location": "Room 4",
     "type": "Zertifizierung",
     "end_time": "2016-05-05T09:30:00+00:00"
   },
@@ -671,9 +631,11 @@
       "name": "Zertifizierung",
       "id": 5
     },
+    "start_time": "2016-05-05T11:00:00+00:00",
     "session_id": "Z-2",
-    "location": "Level 4",
-    "type": "Pause"
+    "location": "Room 4",
+    "type": "Pause",
+    "end_time": "2016-05-05T11:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -691,9 +653,11 @@
       "name": "Zertifizierung",
       "id": 5
     },
+    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "Z-3",
-    "location": "Level 4",
-    "type": "Zertifizierung"
+    "location": "Room 4",
+    "type": "Zertifizierung",
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -713,7 +677,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-1",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "workshop",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -735,7 +699,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-2",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Kids Maker Space",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -757,7 +721,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-3",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Kids Maker Space",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -779,7 +743,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-4",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Exhibition Area",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -801,7 +765,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-5",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Exhibition Area, Table with Laptops, cushions",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -823,7 +787,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-6",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Workshop/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -845,7 +809,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-7",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -867,7 +831,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-8",
-    "location": "Level 5",
+    "location": "Room 5",
     "type": "Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   }

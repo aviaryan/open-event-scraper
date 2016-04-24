@@ -76,7 +76,7 @@ function foldByTrack(sessions, speakers) {
     }
 
     track.sessions.push({
-      start: moment(session.start_time).utcOffset(8).format('hh:mm a'),
+      start: moment(session.start_time).utcOffset(2).format('hh:mm a'),
       title: session.title,
       type: session.type,
       location: session.location,
