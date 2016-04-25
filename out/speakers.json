@@ -21,7 +21,7 @@
     "twitter": "@DojoPotsdam",
     "linkedin": "",
     "id": 2,
-    "photo": "https://github.com/OpenTechSummit/2016.opentechsummit.net/blob/gh-pages/img/NiccoKunzmann.jpg",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/NiccoKunzmann.jpg",
     "organisation": "Coder Dojo Potsdam",
     "biography": "Hier k\u00f6nnen sich Kinder mit programmieren ud Basteln besch\u00e4ftigen. Mentoren sind da zur Betreuung. Man kann mit verschiedenen Programmiersprachen anfangen.   Bilder: https://github.com/CoderDojoPotsdam/material/tree/master/roboter#roboter https://github.com/niccokunzmann/mearm#mearm "
   },
@@ -35,7 +35,7 @@
     "linkedin": "",
     "id": 3,
     "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/PaulaPongratz.jpg",
-    "organisation": "postapokalyptischer schmuck",
+    "organisation": "Postapokalyptischer Schmuck",
     "biography": "Paula Pongratz vereine \"wichtige Eigenschaften der Zukunft: Sie ist eigensinnig, kreativ  und asozial.\" Schrieb so (mehr oder weniger) eine M\u00fcnchner Tageszeitung.   Die studierte Grafikerin macht zur Zeit lieber Schmuck und Videokunst.   Dabei l\u00e4sst sie stark ihre Umgebung in ihre Arbeiten einflie\u00dfen. So entstanden zB die  Schmuckserien 'Postapokalyptischer Schmuck', in der sie 'Fundst\u00fccke der menschlichen  Zivilisation' zu Schmuck verarbeitete oder 'Schmuck aus Stra\u00dfenkehrmaschinenborsten',  welche sie bei ihren Streifz\u00fcgen durch die Stadt findet.  Als VJ versucht sie, aktuelles Weltgeschehen zu thematisieren \u2013 nicht selten kritisch  humorvoll kommentierend. Auch mit ihren Videoinstallationen geht sie direkt auf den  Raum ein, illustrierend, beschreibend.  Seit 2011 gibt sie Workshops, bei denen Teilnehmende aus selbstgefundenem oder zur Verf\u00fcgung gestelltem Material Schmuck herstellen k\u00f6nnen.  Paula Pongratz lebt in M\u00fcnchen und versucht, weniger zu arbeiten."
   },
   {
@@ -211,7 +211,7 @@
     "py/object": "models.Speaker",
     "web": "http://opentechsummit.net",
     "github": "",
-    "name": "OTS Panelists",
+    "name": "Erik D\u00f6rnenburg and Panelists",
     "country": "Germany",
     "twitter": "https://twitter.com/opntec",
     "linkedin": "",
@@ -333,7 +333,7 @@
     "twitter": "@heartsofcode",
     "linkedin": "",
     "id": 26,
-    "photo": "",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/CatSpangehl.jpg",
     "organisation": "Heart of Code",
     "biography": "The Heart of Code is a Berlin based HackSpace for women* advocating diversity in tech. "
   },

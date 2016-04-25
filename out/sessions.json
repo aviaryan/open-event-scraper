@@ -47,7 +47,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "postapokalyptischer schmuck",
+        "organisation": "Postapokalyptischer Schmuck",
         "id": 3,
         "name": "Paulaner Paula Pongratz"
       }
@@ -379,7 +379,7 @@
       {
         "organisation": "OTS",
         "id": 17,
-        "name": "OTS Panelists"
+        "name": "Erik D\u00f6rnenburg and Panelists"
       }
     ],
     "description": "Technology and Society Panel",
