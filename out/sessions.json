@@ -12,7 +12,7 @@
     "title": "Fantastische Hardware Bauen & L\u00f6ten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -34,7 +34,7 @@
     "title": "CoderDojo",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -56,7 +56,7 @@
     "title": "Postapokalyptischer Schmuck / Postapocalyptic Jewellery",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -78,7 +78,7 @@
     "title": "Query Service Wikidata ",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -91,30 +91,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Junge T\u00fcftler",
-        "id": 5,
-        "name": "Julia Kleeberger"
-      }
-    ],
-    "description": "How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects. ",
-    "title": "Wir Bauen Tolle Sachen und T\u00fcfteln mit Elektronik, Papier, Knete und Stoff",
-    "track": {
-      "order": 2,
-      "name": "MakerSpace",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-3",
-    "location": "Room 5",
-    "type": "Kids Maker Space",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Jugend Hackt",
-        "id": 6,
+        "id": 5,
         "name": "Jakob Schade"
       }
     ],
@@ -122,7 +100,7 @@
     "title": "Jugend Hackt",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -136,7 +114,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 7,
+        "id": 6,
         "name": "Code Week Award"
       }
     ],
@@ -144,7 +122,7 @@
     "title": "Code Week Award Live-Hack",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -158,7 +136,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 8,
+        "id": 7,
         "name": "Cat Spangehl"
       }
     ],
@@ -166,13 +144,35 @@
     "title": "Heart Of Code - a hackspace for women* in Berlin",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-8",
     "location": "Room 5",
     "type": "Exhibition",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 8,
+        "name": "Julia Kleeberger"
+      }
+    ],
+    "description": "How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects. ",
+    "title": "Wir Bauen Tolle Sachen und T\u00fcfteln mit Elektronik, Papier, Knete und Stoff",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-3",
+    "location": "Room 5",
+    "type": "Kids Maker Space",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -188,7 +188,7 @@
     "title": "TinyBoy Project - a 3D printer for education",
     "track": {
       "order": 2,
-      "name": "MakerSpace",
+      "name": "Maker Space",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -334,7 +334,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 6,
+        "id": 5,
         "name": "Jakob Schade"
       }
     ],
@@ -379,7 +379,7 @@
       {
         "organisation": "OTS",
         "id": 17,
-        "name": "Erik D\u00f6rnenburg and Panelists"
+        "name": "Erik D\u00f6rnenburg and OTS Panelists"
       }
     ],
     "description": "Technology and Society Panel",
@@ -466,7 +466,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 7,
+        "id": 6,
         "name": "Code Week Award"
       }
     ],
