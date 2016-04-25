@@ -13,15 +13,15 @@ if git diff-index --quiet HEAD; then
 fi
 
 git commit -m '[Auto] updated json files [ci skip]' out/*.json || echo "no changes"
-git push "https://${GH_TOKEN}@github.com/fossasia/open-event-scraper" HEAD:master
+git push "https://${GH_TOKEN}@github.com/OpenTechSummit/open-event-scraper" HEAD:master
 
-git clone --depth=1 "https://${GH_TOKEN}@github.com/fossasia/2016.fossasia.org" fa16-repo
+git clone --depth=1 "https://${GH_TOKEN}@github.com/OpenTechSummit/2016.opentechsummit.net.git" ots-repo
 
-node schedule/generator > fa16-repo/schedule/index.html
+node schedule/generator > ots-repo/programm/index.html
 
-cd fa16-repo
+cd ots-repo
 
-git commit -m '[Auto] updated schedule' schedule/index.html || echo "no changes"
+git commit -m '[Auto] updated schedule' programm/index.html || echo "no changes"
 git push origin gh-pages
 
 exit 0
