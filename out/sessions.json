@@ -8,8 +8,8 @@
         "name": "Mitch Altman"
       }
     ],
-    "description": "Learn to Solder! A large variety of way cool kits are available at this workshop, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.",
-    "title": "Learn to Solder with Cool Kits!",
+    "description": "Wir bauen interessante, faszinierende, n\u00fctzliche und verr\u00fcckte Dinge wie: den TV-B-Gone (Fernsehausschalter f\u00fcr alle TVs!), das \"Brain Machine-Ger\u00e4t\" um Gl\u00fccksgef\u00fchle zu erzeugen, einen LEDcube mit blinkenden Lichtern, spa\u00dfige Spielger\u00e4te, interaktive farbige Blinkenlichter, ein MintyBoost-Gadget um USB-Ger\u00e4te zu laden und vieles mehr. Und nebenbei lernen wir gleich noch L\u00f6ten. Der Workshop wird durchgef\u00fchrt von der Hardware-Bastel-Maker und L\u00f6tlegende Mitch Altman und ist geeignet f\u00fcr Anf\u00e4nger und Fortgeschrittene, j\u00fcngere und \u00e4ltere. // Learn to Solder! A large variety of way cool kits are available at this workshop, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.",
+    "title": "Fantastische Hardware Bauen & L\u00f6ten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!",
     "track": {
       "order": 2,
       "name": "MakerSpace",
@@ -18,7 +18,7 @@
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-1",
     "location": "Room 5",
-    "type": "workshop",
+    "type": "Soldering Workshop",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -31,7 +31,7 @@
       }
     ],
     "description": "Im KidsSpace k\u00f6nnen sich Kinder und Jugendliche kreativ mit Hardware und Programmieren auseinadersetzen.",
-    "title": "CodeDojo",
+    "title": "CoderDojo",
     "track": {
       "order": 2,
       "name": "MakerSpace",
@@ -47,8 +47,52 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Junge T\u00fcftler",
+        "organisation": "postapokalyptischer schmuck",
         "id": 3,
+        "name": "Paulaner Paula Pongratz"
+      }
+    ],
+    "description": "Beim Postapokalyptischen Schmuck-Workshop k\u00f6nnen Teilnehmende der OpenTechSummit aus Fundst\u00fccken vom Veranstaltungsgel\u00e4nde, aus Resten anderer dort stattfindender Workshops oder aus einem bereitgestellten Fundus Schmuck herstellen und sich ganz pers\u00f6nliche Unikate mit nach Hause nehmen. Passend zum Thema Makerbewegung werden hier u.a. 3D-Druck-Reste und -Fehldrucke, Lasercutter-Abschnitte sowie Elektroschrott zur Schmuckproduktion zur Verf\u00fcgung stehen. Es sollen \u00c4sthetikbewusstsein und bewussterer Umgang mit Ressourcen vermittelt werden, wobei gleichzeitig die Abfallmenge der Veranstaltung geringf\u00fcgig dezimiert wird.  We make jewellery from found objects from the Open Tech Summit or from leftovers of other workshops. Feel free to bring own material or choose from provided stuff, there will be lots of 3d-printer-deposit, electronic scrap, lasercutter-leavings!",
+    "title": "Postapokalyptischer Schmuck / Postapocalyptic Jewellery",
+    "track": {
+      "order": 2,
+      "name": "MakerSpace",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-6",
+    "location": "Room 5",
+    "type": "Workshop/Exhibition",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Wikimedia Deutschland e.V.",
+        "id": 4,
+        "name": "Sandra M\u00fcllrick"
+      }
+    ],
+    "description": "We will connect our Query Service Wikidata Talk with a exhibition area to build queriey's with people and introduce them to wikidata.",
+    "title": "Query Service Wikidata ",
+    "track": {
+      "order": 2,
+      "name": "MakerSpace",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-5",
+    "location": "Room 5",
+    "type": "Exhibition Area, Table with Laptops, cushions",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 5,
         "name": "Julia Kleeberger"
       }
     ],
@@ -70,7 +114,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 4,
+        "id": 6,
         "name": "Jakob Schade"
       }
     ],
@@ -85,50 +129,6 @@
     "session_id": "MS-4",
     "location": "Room 5",
     "type": "Exhibition Area",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Wikimedia Deutschland e.V.",
-        "id": 5,
-        "name": "Sandra M\u00fcllrick"
-      }
-    ],
-    "description": "We will connect our Query Service Wikidata Talk with a exhibition area to build queriey's with people and introduce them to wikidata.",
-    "title": "Query Service Wikidata ",
-    "track": {
-      "order": 2,
-      "name": "MakerSpace",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-5",
-    "location": "Room 5",
-    "type": "Exhibition Area, Table with Laptops, cushions",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "postapokalyptischer schmuck",
-        "id": 6,
-        "name": "paulaner paula pongratz"
-      }
-    ],
-    "description": "Beim Postapokalyptischen Schmuck-Workshop k\u00f6nnen Teilnehmende der OpenTechSummit aus Fundst\u00fccken vom Veranstaltungsgel\u00e4nde, aus Resten anderer dort stattfindender Workshops oder aus einem bereitgestellten Fundus Schmuck herstellen und sich ganz pers\u00f6nliche Unikate mit nach Hause nehmen. Passend zum Thema Makerbewegung werden hier u.a. 3D-Druck-Reste und -Fehldrucke, Lasercutter-Abschnitte sowie Elektroschrott zur Schmuckproduktion zur Verf\u00fcgung stehen. Es sollen \u00c4sthetikbewusstsein und bewussterer Umgang mit Ressourcen vermittelt werden, wobei gleichzeitig die Abfallmenge der Veranstaltung geringf\u00fcgig dezimiert wird.  We make jewellery from found objects from the Open Tech Summit or from leftovers of other workshops. Feel free to bring own material or choose from provided stuff, there will be lots of 3d-printer-deposit, electronic scrap, lasercutter-leavings!",
-    "title": "postapokalyptischer schmuck / postapocalyptic jewellery",
-    "track": {
-      "order": 2,
-      "name": "MakerSpace",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-6",
-    "location": "Room 5",
-    "type": "Workshop/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -179,8 +179,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
+        "organisation": "Makeomnia Ltd / HKCOTA",
         "id": 9,
+        "name": "Alvin Lui"
+      }
+    ],
+    "description": "TinyBoy Project is an education project started at 2011. The talk is about the follow up of the project, what we did and the progress.  To show the new version of the TinyBoy, TinyBoy2. And to discuss about how to integrate into STEAM.",
+    "title": "TinyBoy Project - a 3D printer for education",
+    "track": {
+      "order": 2,
+      "name": "MakerSpace",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-9",
+    "location": "Room 5",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
+        "id": 10,
         "name": "Frederik Kramer"
       }
     ],
@@ -202,7 +224,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 10,
+        "id": 11,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -224,7 +246,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 11,
+        "id": 12,
         "name": "Elio Qoshi"
       }
     ],
@@ -246,7 +268,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 12,
+        "id": 13,
         "name": "Marius Hoch"
       }
     ],
@@ -268,7 +290,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 13,
+        "id": 14,
         "name": "Thomas Fricke"
       }
     ],
@@ -290,7 +312,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 14,
+        "id": 15,
         "name": "Barbara Fischer"
       }
     ],
@@ -312,7 +334,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 4,
+        "id": 6,
         "name": "Jakob Schade"
       }
     ],
@@ -334,7 +356,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 15,
+        "id": 16,
         "name": "Thomas Tursics"
       }
     ],
@@ -356,7 +378,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 16,
+        "id": 17,
         "name": "OTS Panelists"
       }
     ],
@@ -378,7 +400,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 17,
+        "id": 18,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -400,7 +422,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days ",
-        "id": 18,
+        "id": 19,
         "name": "Lars Zimmermann"
       }
     ],
@@ -422,7 +444,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 19,
+        "id": 20,
         "name": "Rufus Pollock"
       }
     ],
@@ -466,7 +488,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 20,
+        "id": 21,
         "name": "Zac Brown"
       }
     ],
@@ -488,7 +510,7 @@
     "speakers": [
       {
         "organisation": "unabh\u00e4ngig",
-        "id": 21,
+        "id": 22,
         "name": "Felicitas Blanck"
       }
     ],
@@ -510,7 +532,7 @@
     "speakers": [
       {
         "organisation": "Makeomnia Ltd / HKCOTA",
-        "id": 22,
+        "id": 9,
         "name": "Alvin Lui"
       }
     ],
@@ -669,7 +691,7 @@
       }
     ],
     "description": "What is a VC? What are the advantages of VC? What are the desadvantages of VC? Bonus: 5 models to raise money without VC",
-    "title": "aising money with Venture Capitalist",
+    "title": "Raising money with Venture Capitalist",
     "track": {
       "order": 4,
       "name": "Lightning Talks",
