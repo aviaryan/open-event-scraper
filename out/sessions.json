@@ -159,7 +159,7 @@
       {
         "organisation": "Heart of Code",
         "id": 8,
-        "name": "cat spangehl"
+        "name": "Cat Spangehl"
       }
     ],
     "description": "We would like to shortly introduce the Heart of Code, a Berlin based hackspace for women*. ",
@@ -598,7 +598,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 8,
+        "id": 26,
         "name": "cat spangehl"
       }
     ],
@@ -620,7 +620,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 26,
+        "id": 27,
         "name": "Jenz Steiner"
       }
     ],
@@ -642,7 +642,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 27,
+        "id": 28,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -664,7 +664,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 28,
+        "id": 29,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -686,7 +686,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 29,
+        "id": 30,
         "name": "Jan Dittrich"
       }
     ],
@@ -708,7 +708,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 30,
+        "id": 31,
         "name": "Jos Poortvliet"
       }
     ],
@@ -730,7 +730,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 26,
+        "id": 27,
         "name": "Jenz Steiner"
       }
     ],
@@ -752,7 +752,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 31,
+        "id": 32,
         "name": "Toon PETERS"
       }
     ],
@@ -774,51 +774,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 32,
-        "name": "Harald Maa\u00dfen"
-      }
-    ],
-    "description": "LPI-Pr\u00fcfung",
-    "title": "LPI Zertifizierung",
-    "track": {
-      "order": 6,
-      "name": "Zertifizierung",
-      "id": 6
-    },
-    "start_time": "2016-05-05T09:00:00+00:00",
-    "session_id": "Z-1",
-    "location": "Room 4",
-    "type": "Zertifizierung",
-    "end_time": "2016-05-05T09:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "LPI e.V.",
-        "id": 32,
-        "name": "Harald Maa\u00dfen"
-      }
-    ],
-    "description": "",
-    "title": "Mittagspause",
-    "track": {
-      "order": 6,
-      "name": "Zertifizierung",
-      "id": 6
-    },
-    "start_time": "2016-05-05T11:00:00+00:00",
-    "session_id": "Z-2",
-    "location": "Room 4",
-    "type": "Pause",
-    "end_time": "2016-05-05T11:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "LPI e.V.",
-        "id": 32,
+        "id": 33,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -830,9 +786,31 @@
       "id": 6
     },
     "start_time": "2016-05-05T12:00:00+00:00",
-    "session_id": "Z-3",
+    "session_id": "Z-1",
     "location": "Room 4",
     "type": "Zertifizierung",
     "end_time": "2016-05-05T12:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "LPI e.V.",
+        "id": 33,
+        "name": "Harald Maa\u00dfen"
+      }
+    ],
+    "description": "LPI-Pr\u00fcfung",
+    "title": "LPI Zertifizierung",
+    "track": {
+      "order": 6,
+      "name": "Zertifizierung",
+      "id": 6
+    },
+    "start_time": "2016-05-05T14:00:00+00:00",
+    "session_id": "Z-2",
+    "location": "Room 4",
+    "type": "Zertifizierung",
+    "end_time": "2016-05-05T14:30:00+00:00"
   }
 ]}

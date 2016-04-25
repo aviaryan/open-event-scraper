@@ -34,7 +34,7 @@
     "twitter": "https://twitter.com/Ju_lea",
     "linkedin": "https://de.linkedin.com/in/julea",
     "id": 3,
-    "photo": "https://www.dropbox.com/s/erh0xu64cj29tgk/profil_JuliaKleeberger.jpg?dl=0",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/JuliaKleeberger.jpg",
     "organisation": "Junge T\u00fcftler",
     "biography": "Julia believes in the wisdom of the hands and the knowledge you gain when testing things on your own. She shares her knowledge and passion about tinkering with technology in Hands-On workshops and also worked as a lecturer for DIY seminars at the Art & Design University, Braunschweig. Getting daily inspired by her own children it is an inner objective for her to offer kids a playful access to technology and provide them with the right tools to creatively tinker around - and by doing so to develop the required skill set to solve the problems of tomorrow. That\u2019s why she founded \u201cJunge T\u00fcftler\u201d.  Besides, Julia works as a design strategist with a focus on human centred design and business innovation and holds M.A and Ph.D. degrees in Media Interaction & Media Sciences. While she loves digital technology she is always driven by combining its potential with human values to create a worth living world. "
   },
@@ -86,7 +86,7 @@
     "twitter": "@codeweekaward",
     "linkedin": "",
     "id": 7,
-    "photo": "https://drive.google.com/open?id=0B8S4MnOToXQ9OFE2YWg0d0V5cE0",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/codeweekaward16.jpg",
     "organisation": "Code Week Award",
     "biography": "Wir sind das Team des Code Week Awards. Wir unterst\u00fctzen und vernetzen Projekte, sind unterwegs auf kreativen Tech Festivals, f\u00fchren Workshops durch, geben euch Tipps bei Fragen zu OER-Konzepten oder helfen bei der Suche einer Coding-Initiative in eurer N\u00e4he."
   },
@@ -94,7 +94,7 @@
     "py/object": "models.Speaker",
     "web": "http://heartofcode.org",
     "github": "/heartsofcode",
-    "name": "cat spangehl",
+    "name": "Cat Spangehl",
     "country": "BER/GER",
     "twitter": "@heartsofcode",
     "linkedin": "",
@@ -138,7 +138,7 @@
     "twitter": "elioqoshi",
     "linkedin": "https://al.linkedin.com/in/elioqoshi",
     "id": 11,
-    "photo": "https://scontent-fra3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12933060_1100773963308565_3119173675101839721_n.jpg?oh=73839e48dd429d0fcb4dd0c8c3c9bfdb&oe=5779A597",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/ElioQoshi.jpg",
     "organisation": "Mozilla",
     "biography": "Elio is an open source designer from Albania currently involved as a Creative Lead at Mozilla Community Design, Glucosio and GalliumOS. He works for SitePoint as a Community Manager and Author, covering the latest open source technologies and topics. When he is not pursuing his studies at the University of Arts in Tirana, he contributes with efforts as a board member at Open Labs Hackerspace and organizing OSCAL (Open Source Conference Albania)."
   },
@@ -151,7 +151,7 @@
     "twitter": "wikidata",
     "linkedin": "",
     "id": 12,
-    "photo": "https://www.wikimedia.de/wiki/Datei:Marius_Hoch.jpg",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/MariusHoch.jpg",
     "organisation": "Wikimedia Deutschland e.V.",
     "biography": "Marius Hoch is software developer at Wikimedia Deutschland e.V. and a contributor to the Wikidata project since 2012. "
   },
@@ -164,7 +164,7 @@
     "twitter": "",
     "linkedin": "https://www.linkedin.com/in/thomas-fricke-9840a21",
     "id": 13,
-    "photo": "https://endocode.com/wordpress/media/team-thomas.jpg",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/ThomasFricke.jpg",
     "organisation": "Endocode AG",
     "biography": "CTO and Partner of Endocode AG  As a Cloud Architect, he has designed clouds and applications shaped to run in clouds for more than a decade.  OpenSource enthusiast for nearly 30 years  "
   },
@@ -177,7 +177,7 @@
     "twitter": "@fischerdata",
     "linkedin": "",
     "id": 14,
-    "photo": "https://commons.wikimedia.org/wiki/File%3AOpen_Galm_2013_Sesja_III_Barbara_Fischer_2.jpg",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/BarbaraFischer.jpg",
     "organisation": "Wikimedia Deutschland",
     "biography": "The art manager Barbara Fischer is operating as curator for cultural partnerships at Wikimedia Deutschland. Her job is to enhance GLAM institutions to join the Open Culture movement as in Wikimedia projects."
   },
@@ -242,7 +242,7 @@
     "twitter": "",
     "linkedin": "",
     "id": 19,
-    "photo": "",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/RufusPollock.jpg",
     "organisation": "OpenKnowledge",
     "biography": "Leading academic of the European open data movement"
   },
@@ -320,9 +320,22 @@
     "twitter": "lynXintl",
     "linkedin": "",
     "id": 25,
-    "photo": "",
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/carlovonlynX.jpg",
     "organisation": "youbroketheinternet.org",
     "biography": "Recently Yanis Varoufakis joined the Icelandic Pirate Party's choir, asking for a new Constitution for the European Union. It is quite obvious, that such a document must be developed in a participatory utilizing the Internet. Yet, the Internet bears many threats and e-democracy platforms are prone to many fallacies. carlo von lynX has been publicly discussing potentials and risks after participating in the debut installation of Liquid Feedback which led to 2011's electoral success of the Berlin Piratenpartei. Later he joined the Italian Pirate Party in the endeavor of designing a leaderless political party, continuously governed by a permanent electronic assembly \u2013 where decisions are taken together. At first it didn't work, but after several years of design re-iterations it now seems like the design is functional. A large-scale digital assembly or parliament is not only possible, it can also be self-governed."
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "http://heartofcode.org",
+    "github": "/heartsofcode",
+    "name": "cat spangehl",
+    "country": "BER/GER",
+    "twitter": "@heartsofcode",
+    "linkedin": "",
+    "id": 26,
+    "photo": "",
+    "organisation": "Heart of Code",
+    "biography": "The Heart of Code is a Berlin based HackSpace for women* advocating diversity in tech. "
   },
   {
     "py/object": "models.Speaker",
@@ -332,7 +345,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 26,
+    "id": 27,
     "photo": "http://socialvisions.net/wp-content/uploads/2014/09/syriaonthemove_logo_finale1-310x310.jpg",
     "organisation": "Syria on the Move, SocialVisions e.V.",
     "biography": "Anja Pietsch and Jenz Steiner are two activists of the project Syria on the Move. They have been into participatory photography and grassroots media for many years."
@@ -345,7 +358,7 @@
     "country": "Germany",
     "twitter": "@simulo",
     "linkedin": "",
-    "id": 27,
+    "id": 28,
     "photo": "https://www.dropbox.com/s/1q40jkf6prb0dov/portrait.jpg?dl=0",
     "organisation": "private",
     "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
@@ -358,8 +371,8 @@
     "country": "Haiti-Germany",
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
-    "id": 28,
-    "photo": "https://branded.me/iversyvespierre",
+    "id": 29,
+    "photo": "https://raw.githubusercontent.com/MeshCon/2014.meshcon.net/gh-pages/img/YvesPierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
   },
@@ -371,8 +384,8 @@
     "country": "Germany",
     "twitter": "@simulo",
     "linkedin": "https://de.linkedin.com/in/jandittrich",
-    "id": 29,
-    "photo": "https://bau-ha.us/files/avatars/75/ef63f2e33acc85dc2a795fb094d7ef2f-bpfull.jpg",
+    "id": 30,
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/JanDittrich.jpg",
     "organisation": "private",
     "biography": "Jan is an UX Designer and User Researcher. His current focus is making research on user needs and motivations easier for small design teams. He contributes to open source projects like RKWard, Etherpad and quickMockup.   When not dealing with Design and Research, Jan enjoys playing guitar and reading books on neuroscience."
   },
@@ -384,8 +397,8 @@
     "country": "Europe",
     "twitter": "jospoortvliet",
     "linkedin": "",
-    "id": 30,
-    "photo": "",
+    "id": 31,
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/JosPoortvliet.jpg",
     "organisation": "ownCloud",
     "biography": "People person, technology enthusiast and all-things-open evangelist. Previously community manager at SUSE and now at ownCloud while continuing an decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with our dog. https://github.com/jospoortvliet  | http://twitter.com/jospoortvliet"
   },
@@ -397,7 +410,7 @@
     "country": "Belgium",
     "twitter": "@picotcp",
     "linkedin": "",
-    "id": 31,
+    "id": 32,
     "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/37a/2c87c11.jpg",
     "organisation": "Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
@@ -410,8 +423,8 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 32,
-    "photo": "",
+    "id": 33,
+    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/LPI.png",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
   }
