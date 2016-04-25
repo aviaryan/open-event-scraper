@@ -16,4 +16,6 @@ def get_pic_url(result):
         return result["Photo for Website and Program"]
     elif result.has_key("image"):
         return result["image"]
+    elif result.has_key("Please add a link to a color photo - of You - in good quality we can use for the website."):
+        return result["Please add a link to a color photo - of You - in good quality we can use for the website."]
     return ""

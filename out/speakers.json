@@ -8,7 +8,7 @@
     "twitter": "@maltman23",
     "linkedin": "https://www.linkedin.com/pub/dir/Mitch/Altman",
     "id": 1,
-    "photo": "",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mitch_Altman_Chaos_Communication_Camp_2011.jpg",
     "organisation": "Cornfield Electronics",
     "biography": "Mitch Altman is a San Francisco-based hacker and inventor, best known for inventing TV-B-Gone remote controls, a keychain that turns off TVs in public places.  He was also co-founder of 3ware, a successful Silly Valley startup in the late 1990s, and did pioneering work in Virtual Reality in the mid-1980s.  He has contributed to MAKE Magazine and other magazines, and wrote a chapter for \u201cMaker Pro\u201d, a book about making a living from projects one loves.  For the last several years Mitch has been giving talks, and leading workshops around the world, teaching people to make cool things with microcontrollers and teaching everyone to solder.  He promotes hackerspaces and open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and is President and CEO of Cornfield Electronics.  Wikipedia page: http://en.wikipedia.org/wiki/Mitch_Altman  TEDxBrussels talk: \"The Hackerspace Movement\": http://tedxtalks.ted.com/video/Mitch-Altman-at-TEDxBrussels "
   },
@@ -34,7 +34,7 @@
     "twitter": "https://twitter.com/Ju_lea",
     "linkedin": "https://de.linkedin.com/in/julea",
     "id": 3,
-    "photo": "",
+    "photo": "https://www.dropbox.com/s/erh0xu64cj29tgk/profil_JuliaKleeberger.jpg?dl=0",
     "organisation": "Junge T\u00fcftler",
     "biography": "Julia believes in the wisdom of the hands and the knowledge you gain when testing things on your own. She shares her knowledge and passion about tinkering with technology in Hands-On workshops and also worked as a lecturer for DIY seminars at the Art & Design University, Braunschweig. Getting daily inspired by her own children it is an inner objective for her to offer kids a playful access to technology and provide them with the right tools to creatively tinker around - and by doing so to develop the required skill set to solve the problems of tomorrow. That\u2019s why she founded \u201cJunge T\u00fcftler\u201d.  Besides, Julia works as a design strategist with a focus on human centred design and business innovation and holds M.A and Ph.D. degrees in Media Interaction & Media Sciences. While she loves digital technology she is always driven by combining its potential with human values to create a worth living world. "
   },
@@ -86,7 +86,7 @@
     "twitter": "@codeweekaward",
     "linkedin": "",
     "id": 7,
-    "photo": "",
+    "photo": "https://drive.google.com/open?id=0B8S4MnOToXQ9OFE2YWg0d0V5cE0",
     "organisation": "Code Week Award",
     "biography": "Wir sind das Team des Code Week Awards. Wir unterst\u00fctzen und vernetzen Projekte, sind unterwegs auf kreativen Tech Festivals, f\u00fchren Workshops durch, geben euch Tipps bei Fragen zu OER-Konzepten oder helfen bei der Suche einer Coding-Initiative in eurer N\u00e4he."
   },
@@ -112,7 +112,7 @@
     "twitter": "OSevangelist",
     "linkedin": "https://www.linkedin.com/in/frederik-kramer-68188087",
     "id": 9,
-    "photo": "",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/060/0a0/39d753a.jpg",
     "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
     "biography": "Frederik Kramer studierte Wirtschaftsinformatik am Institut f\u00fcr Technische und Betriebliche Informationssysteme der Otto-von-Guericke-Universit\u00e4t Magdeburg. Aktuell arbeitet er als assoziierter Wissenschaftler am Magdeburg Research and Competence Cluster (MRCC) an seiner Promotion zur strategischen Gestaltung von Systemlandschaften in KMU. Sein Forschungsinteresse liegt dabei insbesondere bei der strategischen Nutzung von Open Source Software zur Gewinnung nachhaltiger Wettbewerbsvorteile. Als Gr\u00fcnder und Gesch\u00e4ftsf\u00fchrer der initOS GmbH besch\u00e4ftigt er sich zusammen mit seinen Kollegen seit vielen Jahren mit der strategischen Planung, Einf\u00fchrung, Wartung und Nutzung auf Open Source Software basierender komplexer betrieblicher Anwendungssysteme."
   },
@@ -138,7 +138,7 @@
     "twitter": "elioqoshi",
     "linkedin": "https://al.linkedin.com/in/elioqoshi",
     "id": 11,
-    "photo": "",
+    "photo": "https://scontent-fra3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12933060_1100773963308565_3119173675101839721_n.jpg?oh=73839e48dd429d0fcb4dd0c8c3c9bfdb&oe=5779A597",
     "organisation": "Mozilla",
     "biography": "Elio is an open source designer from Albania currently involved as a Creative Lead at Mozilla Community Design, Glucosio and GalliumOS. He works for SitePoint as a Community Manager and Author, covering the latest open source technologies and topics. When he is not pursuing his studies at the University of Arts in Tirana, he contributes with efforts as a board member at Open Labs Hackerspace and organizing OSCAL (Open Source Conference Albania)."
   },
@@ -151,7 +151,7 @@
     "twitter": "wikidata",
     "linkedin": "",
     "id": 12,
-    "photo": "",
+    "photo": "https://www.wikimedia.de/wiki/Datei:Marius_Hoch.jpg",
     "organisation": "Wikimedia Deutschland e.V.",
     "biography": "Marius Hoch is software developer at Wikimedia Deutschland e.V. and a contributor to the Wikidata project since 2012. "
   },
@@ -164,7 +164,7 @@
     "twitter": "",
     "linkedin": "https://www.linkedin.com/in/thomas-fricke-9840a21",
     "id": 13,
-    "photo": "",
+    "photo": "https://endocode.com/wordpress/media/team-thomas.jpg",
     "organisation": "Endocode AG",
     "biography": "CTO and Partner of Endocode AG  As a Cloud Architect, he has designed clouds and applications shaped to run in clouds for more than a decade.  OpenSource enthusiast for nearly 30 years  "
   },
@@ -177,7 +177,7 @@
     "twitter": "@fischerdata",
     "linkedin": "",
     "id": 14,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/File%3AOpen_Galm_2013_Sesja_III_Barbara_Fischer_2.jpg",
     "organisation": "Wikimedia Deutschland",
     "biography": "The art manager Barbara Fischer is operating as curator for cultural partnerships at Wikimedia Deutschland. Her job is to enhance GLAM institutions to join the Open Culture movement as in Wikimedia projects."
   },
@@ -190,7 +190,7 @@
     "twitter": "@tursics",
     "linkedin": "http://www.linkedin.com/in/thomastursics",
     "id": 15,
-    "photo": "",
+    "photo": "https://scontent-frt3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10306307_629621073780536_8611716964521594963_n.jpg?oh=396840c365ba656cf5bae786996885a4&oe=57B27E02",
     "organisation": "Code for Berlin",
     "biography": "Als gelernter Softwareentwickler arbeite ich seit Jahren an kleinen und gro\u00dfen Projekten mit. In meiner Freizeit nutze ich dieses Wissen, um aus offenen Daten vielf\u00e4ltige Anwendungen zu erstellen. Ich treibe mich des \u00f6fteren auf Hackathons rum und erz\u00e4hle jedem der mir zuh\u00f6rt, wie toll dieses Open Data ist."
   },
@@ -229,7 +229,7 @@
     "twitter": "@bricktick",
     "linkedin": "",
     "id": 18,
-    "photo": "",
+    "photo": "https://oscedays.org/wp-content/uploads/2014/11/Lars-Zimmermann-c-Enver-Hirsch.png",
     "organisation": "Open Source Circular Economy Days ",
     "biography": "Lars Zimmermann (larszimmermann.de) is an artist and economist. He explores Open Source Hardware business models and Open Source for Circular Economy. He is involved in a variety of projects and organizations like the Open It Agency (openitagency.eu), Open Source Circular Economy Days (oscedays.org), The City Is Open Source (thecityisopensource.de) and Mifactori (mifactori.bloglz.de)."
   },
@@ -268,7 +268,7 @@
     "twitter": "https://twitter.com/fraufeli/",
     "linkedin": "https://de.linkedin.com/in/felicitasblanck",
     "id": 21,
-    "photo": "",
+    "photo": "https://pbs.twimg.com/media/CgZJt1wW8AABYzN.jpg",
     "organisation": "unabh\u00e4ngig",
     "biography": "Community Managerin oder auch Zensuruschi. Urspr\u00fcnglich Kunsthistorikerin. Ich besch\u00e4ftige mich mit der Kommentardebatte im Internet und der Frage, wie man Nutzer am besten zu Wort kommen lassen kann. Sehr interessiert an Verkn\u00fcpfungen von Kultur/Journalismus und Internet."
   },
@@ -294,7 +294,7 @@
     "twitter": "",
     "linkedin": "",
     "id": 23,
-    "photo": "",
+    "photo": "http://jeremybonvoisin.com/WordPress3/wp-content/uploads/2014/09/workshop-open-design.png",
     "organisation": "Technische Universit\u00e4t Berlin",
     "biography": "J\u00e9r\u00e9my Bonvoisin performs research in sustainable product development at the department of Industrial Information Technology of the Technische Universit\u00e4t Berlin. He leads the French-German research project \"OPEN!-Methods and tools for community-based product development\" that is dedicated to open source hardware and started in March 2016 for a duration of three years. Along the precedent years of research, he covered research topics such as: remanufacturing, energy efficiency of electric and electronic products, environmental assessment of ICT-based services, energy efficiency of production systems and product modularization. "
   },
@@ -307,7 +307,7 @@
     "twitter": "@picotcp",
     "linkedin": "https://be.linkedin.com/in/toonpeters",
     "id": 24,
-    "photo": "",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/37a/2c87c11.jpg",
     "organisation": "Intelligent Systems / Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
   },
@@ -333,7 +333,7 @@
     "twitter": "",
     "linkedin": "",
     "id": 26,
-    "photo": "",
+    "photo": "http://socialvisions.net/wp-content/uploads/2014/09/syriaonthemove_logo_finale1-310x310.jpg",
     "organisation": "Syria on the Move, SocialVisions e.V.",
     "biography": "Anja Pietsch and Jenz Steiner are two activists of the project Syria on the Move. They have been into participatory photography and grassroots media for many years."
   },
@@ -346,7 +346,7 @@
     "twitter": "@simulo",
     "linkedin": "",
     "id": 27,
-    "photo": "",
+    "photo": "https://www.dropbox.com/s/1q40jkf6prb0dov/portrait.jpg?dl=0",
     "organisation": "private",
     "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
   },
@@ -359,7 +359,7 @@
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
     "id": 28,
-    "photo": "",
+    "photo": "https://branded.me/iversyvespierre",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
   },
@@ -372,7 +372,7 @@
     "twitter": "@simulo",
     "linkedin": "https://de.linkedin.com/in/jandittrich",
     "id": 29,
-    "photo": "",
+    "photo": "https://bau-ha.us/files/avatars/75/ef63f2e33acc85dc2a795fb094d7ef2f-bpfull.jpg",
     "organisation": "private",
     "biography": "Jan is an UX Designer and User Researcher. His current focus is making research on user needs and motivations easier for small design teams. He contributes to open source projects like RKWard, Etherpad and quickMockup.   When not dealing with Design and Research, Jan enjoys playing guitar and reading books on neuroscience."
   },
@@ -398,7 +398,7 @@
     "twitter": "@picotcp",
     "linkedin": "",
     "id": 31,
-    "photo": "",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/37a/2c87c11.jpg",
     "organisation": "Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
   },

@@ -113,6 +113,11 @@
                   </p>
                 </div>
                 <p class="session-speakers">
+                  {{#speakers_list}}
+                  {{#if photo}}
+                  <img src="{{photo}}" style="width:5rem; height:5rem; border-radius:50%;"/>
+                  {{/if}}
+                  {{/speakers_list}}
                   {{speakers}}
                 </p>
                 <p>
