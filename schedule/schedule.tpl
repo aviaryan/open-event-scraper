@@ -52,7 +52,7 @@
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
             {{#days}}
-            <li class="dropdown">
+            <li class="dropdown" id="day-menu">
               <a
               href="#"
               class="dropdown-toggle"
@@ -105,7 +105,7 @@
                   <h4 class="session-title">
                     {{title}}&nbsp;
                     <a class="session-link" href="#{{session_id}}">
-                      <i class="fa fa-anchor"></i>
+                      <i class="fa fa-link"></i>
                     </a>
                   </h4>
                   <p class="session-location">
@@ -135,7 +135,7 @@
                     </p>
                     <div class="session-speakers-more">
                       <p>
-                        <span class="session-speaker-bio">{{biography}}</span>
+                        <span class="session-speaker-bio">{{#linkify}}{{biography}}{{/linkify}}</span>
                       </p>
                       <p class="session-speaker-social">
                         {{#if web}}

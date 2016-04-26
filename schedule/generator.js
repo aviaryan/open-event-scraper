@@ -8,6 +8,23 @@ const tpl = handlebars.compile(fs.readFileSync(__dirname + '/schedule.tpl').toSt
 const sessionsData = require('../out/sessions.json')
 const speakersData = require('../out/speakers.json')
 
+if(!String.linkify) {
+    String.prototype.linkify = function() {
+        var urlPattern = /\b(?:https?|ftp):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*[a-z0-9-+&@#\/%=~_|]/gim;
+        var pseudoUrlPattern = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+        var emailAddressPattern = /[\w.]+@[a-zA-Z_-]+?(?:\.[a-zA-Z]{2,6})+/gim;
+        return this
+            .replace(urlPattern, '<a href="$&">$&</a>')
+            .replace(pseudoUrlPattern, '$1<a href="http://$2">$2</a>')
+            .replace(emailAddressPattern, '<a href="mailto:$&">$&</a>');
+    };
+}
+
+handlebars.registerHelper('linkify', function (options) {
+    var content = options.fn(this);
+    return new handlebars.SafeString(content.linkify());
+});
+
 function slugify(str) {
   return str.replace(/[^\w]/g, '-').replace(/-+/g, '-').toLowerCase()
 }
