@@ -52,7 +52,7 @@
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
             {{#days}}
-            <li class="dropdown">
+            <li class="dropdown" id="day-menu">
               <a
               href="#"
               class="dropdown-toggle"
