@@ -377,6 +377,28 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "at OpenTechSummit",
+        "id": 18,
+        "name": "Talkers"
+      }
+    ],
+    "description": "",
+    "title": "Lightning Talks",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T11:00:00+00:00",
+    "session_id": "OT-06",
+    "location": "Room 1",
+    "type": "1 hour",
+    "end_time": "2016-05-05T11:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Jugend Hackt",
         "id": 6,
         "name": "Jakob Schade"
@@ -384,72 +406,6 @@
     ],
     "description": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. Einige dieser Projekte werden hier vorgestellt und k\u00f6nnen mit den jungen Entwicklern selbst diskutiert werden. Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.",
     "title": "Jugend Hackt",
-    "track": {
-      "order": 3,
-      "name": "Galerie",
-      "id": 3
-    },
-    "start_time": "2016-05-05T11:00:00+00:00",
-    "session_id": "OT-66",
-    "location": "Room 1",
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T11:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Code for Berlin",
-        "id": 18,
-        "name": "Thomas Tursics"
-      }
-    ],
-    "description": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.",
-    "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten",
-    "track": {
-      "order": 3,
-      "name": "Galerie",
-      "id": 3
-    },
-    "start_time": "2016-05-05T11:20:00+00:00",
-    "session_id": "OT-06",
-    "location": "Room 1",
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T11:50:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "OTS",
-        "id": 19,
-        "name": "Erik D\u00f6rnenburg and OTS Panelists"
-      }
-    ],
-    "description": "Technology and Society Panel",
-    "title": "Open Technology and Society Panel",
-    "track": {
-      "order": 3,
-      "name": "Galerie",
-      "id": 3
-    },
-    "start_time": "2016-05-05T11:40:00+00:00",
-    "session_id": "OT-08",
-    "location": "Room 1",
-    "type": "Panel",
-    "end_time": "2016-05-05T12:10:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 20,
-        "name": "Ruediger/Bruno Weis/Kirschner"
-      }
-    ],
-    "description": "Authenticated Anonymity by Math Ruediger Weis, Bruno Kirschner  Number theory provides us many tools to create sometimes really surprising technologies for social communication. We have learned that math might be our last defence line against a real existing all-encompassing surveillance. One central challenge in this conflict is to combine authentication and anonymity. Since a lot of these technologies have not been brought to the implemented world yet, we want to present a proposal to integrate blind signature schemes over elliptic curves into Open PGP. ",
-    "title": "Authenticated Anonymity by Math",
     "track": {
       "order": 3,
       "name": "Galerie",
@@ -465,8 +421,74 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Open Source Circular Economy Days ",
+        "organisation": "Code for Berlin",
+        "id": 19,
+        "name": "Thomas Tursics"
+      }
+    ],
+    "description": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.",
+    "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T13:00:00+00:00",
+    "session_id": "OT-08",
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T13:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "OTS",
+        "id": 20,
+        "name": "Erik D\u00f6rnenburg and OTS Panelists"
+      }
+    ],
+    "description": "Technology and Society Panel",
+    "title": "Open Technology and Society Panel",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T14:00:00+00:00",
+    "session_id": "OT-09",
+    "location": "Room 1",
+    "type": "Panel",
+    "end_time": "2016-05-05T14:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Beuth Hochschule fuer Technik Berlin",
         "id": 21,
+        "name": "Ruediger/Bruno Weis/Kirschner"
+      }
+    ],
+    "description": "Authenticated Anonymity by Math Ruediger Weis, Bruno Kirschner  Number theory provides us many tools to create sometimes really surprising technologies for social communication. We have learned that math might be our last defence line against a real existing all-encompassing surveillance. One central challenge in this conflict is to combine authentication and anonymity. Since a lot of these technologies have not been brought to the implemented world yet, we want to present a proposal to integrate blind signature schemes over elliptic curves into Open PGP. ",
+    "title": "Authenticated Anonymity by Math",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T15:00:00+00:00",
+    "session_id": "OT-10",
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T15:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Open Source Circular Economy Days ",
+        "id": 22,
         "name": "Lars Zimmermann"
       }
     ],
@@ -477,18 +499,18 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T12:20:00+00:00",
-    "session_id": "OT-09",
+    "start_time": "2016-05-05T16:00:00+00:00",
+    "session_id": "OT-11",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T12:50:00+00:00"
+    "end_time": "2016-05-05T16:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 22,
+        "id": 23,
         "name": "Rufus Pollock"
       }
     ],
@@ -499,11 +521,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T12:40:00+00:00",
-    "session_id": "OT-10",
+    "start_time": "2016-05-05T17:00:00+00:00",
+    "session_id": "OT-12",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T13:10:00+00:00"
+    "end_time": "2016-05-05T17:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -521,40 +543,40 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T13:00:00+00:00",
-    "session_id": "OT-14",
+    "start_time": "2016-05-05T18:00:00+00:00",
+    "session_id": "OT-13",
     "location": "Room 1",
     "type": "Talk mit Live-Hack (20 Minuten)",
-    "end_time": "2016-05-05T13:30:00+00:00"
+    "end_time": "2016-05-05T18:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 23,
+        "id": 24,
         "name": "Zac Brown"
       }
     ],
-    "description": "Open technologies play a very important role in advancing some of the most empowering technologies of today. Explore that role, specifically pertaining to Geospatial data and the FreeGeo API, and discover how you can help advance the technology and availability of geospatial mapping and other services. ",
-    "title": "Open Data: Geospatial Heaven",
+    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more!",
+    "title": "FreeGeo API: What, Why & How",
     "track": {
       "order": 3,
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T13:20:00+00:00",
-    "session_id": "OT-57",
+    "start_time": "2016-05-05T19:00:00+00:00",
+    "session_id": "OT-14",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T13:50:00+00:00"
+    "end_time": "2016-05-05T19:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "unabh\u00e4ngig",
-        "id": 24,
+        "id": 25,
         "name": "Felicitas Blanck"
       }
     ],
@@ -565,11 +587,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T13:40:00+00:00",
-    "session_id": "OT-11",
+    "start_time": "2016-05-05T20:00:00+00:00",
+    "session_id": "OT-15",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T14:10:00+00:00"
+    "end_time": "2016-05-05T20:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -587,18 +609,18 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "OT-64",
+    "start_time": "2016-05-05T21:00:00+00:00",
+    "session_id": "OT-16",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T14:30:00+00:00"
+    "end_time": "2016-05-05T21:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 25,
+        "id": 26,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -609,18 +631,18 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T14:20:00+00:00",
-    "session_id": "OT-13",
+    "start_time": "2016-05-04T22:00:00+00:00",
+    "session_id": "OT-17",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T14:50:00+00:00"
+    "end_time": "2016-05-04T22:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 26,
+        "id": 27,
         "name": "Toon Peters"
       }
     ],
@@ -631,18 +653,18 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T14:40:00+00:00",
-    "session_id": "OT-12",
+    "start_time": "2016-05-04T23:00:00+00:00",
+    "session_id": "OT-18",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T15:10:00+00:00"
+    "end_time": "2016-05-04T23:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 27,
+        "id": 28,
         "name": "carlo von lynX"
       }
     ],
@@ -653,33 +675,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T15:00:00+00:00",
-    "session_id": "OT-16",
+    "start_time": "2016-05-05T00:00:00+00:00",
+    "session_id": "OT-19",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T15:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Heart of Code",
-        "id": 28,
-        "name": "cat spangehl"
-      }
-    ],
-    "description": "We would like to shortly introduce the Heart of Code, a Berlin based hackspace for women*. ",
-    "title": "Heart Of Code - a hackspace for women* in Berlin",
-    "track": {
-      "order": 3,
-      "name": "Galerie",
-      "id": 3
-    },
-    "start_time": "2016-05-05T15:20:00+00:00",
-    "session_id": "OT-17",
-    "location": "Room 1",
-    "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T15:50:00+00:00"
+    "end_time": "2016-05-05T00:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -697,11 +697,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T15:40:00+00:00",
-    "session_id": "OT-18",
+    "start_time": "2016-05-05T01:00:00+00:00",
+    "session_id": "OT-20",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:10:00+00:00"
+    "end_time": "2016-05-05T01:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -710,11 +710,6 @@
         "organisation": "Junge T\u00fcftler",
         "id": 30,
         "name": "Franziska Schmid"
-      },
-      {
-        "organisation": "Junge T\u00fcftler",
-        "id": 9,
-        "name": "Julia Kleeberger"
       }
     ],
     "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
@@ -724,11 +719,33 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T16:00:00+00:00",
-    "session_id": "OT-19",
+    "start_time": "2016-05-05T02:00:00+00:00",
+    "session_id": "OT-21",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:30:00+00:00"
+    "end_time": "2016-05-05T02:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 9,
+        "name": "Julia Kleeberger"
+      }
+    ],
+    "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
+    "title": "Feel the force! ... or how to make open education for real.",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T03:00:00+00:00",
+    "session_id": "OT-22",
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T03:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -746,11 +763,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T16:20:00+00:00",
-    "session_id": "OT-20",
+    "start_time": "2016-05-05T04:00:00+00:00",
+    "session_id": "OT-23",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:50:00+00:00"
+    "end_time": "2016-05-05T04:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -769,7 +786,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T16:40:00+00:00",
-    "session_id": "OT-21",
+    "session_id": "OT-24",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:10:00+00:00"
@@ -791,7 +808,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T17:00:00+00:00",
-    "session_id": "OT-22",
+    "session_id": "OT-25",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:30:00+00:00"
@@ -813,7 +830,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T17:20:00+00:00",
-    "session_id": "OT-23",
+    "session_id": "OT-26",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:50:00+00:00"
@@ -835,7 +852,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T17:40:00+00:00",
-    "session_id": "OT-24",
+    "session_id": "OT-27",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:10:00+00:00"
@@ -905,6 +922,28 @@
     "location": "Room 2",
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T11:50:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Heart of Code",
+        "id": 8,
+        "name": "Cat Spangehl"
+      }
+    ],
+    "description": "We would like to shortly introduce the Heart of Code, a Berlin based hackspace for women*. ",
+    "title": "Heart Of Code - a hackspace for women* in Berlin",
+    "track": {
+      "order": 4,
+      "name": "Lightning Talks",
+      "id": 4
+    },
+    "start_time": "2016-05-05T11:30:00+00:00",
+    "session_id": "LT-4",
+    "location": "Room 2",
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T12:00:00+00:00"
   },
   {
     "py/object": "models.Session",
