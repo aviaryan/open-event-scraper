@@ -223,8 +223,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
+        "organisation": "Free Software Foundation Europe e.V.",
         "id": 11,
+        "name": "Erik Albers"
+      }
+    ],
+    "description": "Die Free Software Foundation Europe ist eine gemeinn\u00fctzige, regierungsunabh\u00e4ngige Organisation gef\u00fchrt von Matthias Kirschner als Pr\u00e4sident. 2010 erhielt die FSFE die Theodor Heuss Medaille f\u00fcr vorbildliches demokratisches Verhalten. Aktuelle Kampagnen sind \u201eFree Your Android\u201c (St\u00e4rkung der eigenen Kontrolle \u00fcber Android-Ger\u00e4te), \u201eAsk Your Candidates\u201c (Fragen an Wahlkandidaten, wie sie zu Freier Software stehen) und \u201eI love Free Software\u201c (Aktion am Valentinstag).   //   The Free Software Foundation Europe (FSFE) was founded in 2001 to support all aspects of the free software movement in Europe. FSFE is a charitable registered association (eingetragener Verein) under German law, and has registered 'chapters' in several European countries. FSFE believes that access to and control of software determines who may participate in a digital society. Therefore, the freedoms to use, copy, modify and redistribute software, as described in The Free Software Definition, are necessary for equal participation in the Information Age.",
+    "title": "Free Software Foundation Europe e.V.",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-11",
+    "location": "Room 5",
+    "type": "Exhibition Area",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
+        "id": 12,
         "name": "Frederik Kramer"
       }
     ],
@@ -246,7 +268,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 12,
+        "id": 13,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -268,7 +290,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 13,
+        "id": 14,
         "name": "Elio Qoshi"
       }
     ],
@@ -290,7 +312,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 14,
+        "id": 15,
         "name": "Marius Hoch"
       }
     ],
@@ -312,7 +334,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 15,
+        "id": 16,
         "name": "Thomas Fricke"
       }
     ],
@@ -334,7 +356,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 16,
+        "id": 17,
         "name": "Barbara Fischer"
       }
     ],
@@ -378,7 +400,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 17,
+        "id": 18,
         "name": "Thomas Tursics"
       }
     ],
@@ -400,7 +422,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 18,
+        "id": 19,
         "name": "Erik D\u00f6rnenburg and OTS Panelists"
       }
     ],
@@ -422,7 +444,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 19,
+        "id": 20,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -444,7 +466,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days ",
-        "id": 20,
+        "id": 21,
         "name": "Lars Zimmermann"
       }
     ],
@@ -466,7 +488,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 21,
+        "id": 22,
         "name": "Rufus Pollock"
       }
     ],
@@ -510,7 +532,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 22,
+        "id": 23,
         "name": "Zac Brown"
       }
     ],
@@ -532,7 +554,7 @@
     "speakers": [
       {
         "organisation": "unabh\u00e4ngig",
-        "id": 23,
+        "id": 24,
         "name": "Felicitas Blanck"
       }
     ],
@@ -576,7 +598,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 24,
+        "id": 25,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -598,7 +620,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 25,
+        "id": 26,
         "name": "Toon Peters"
       }
     ],
@@ -620,7 +642,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 26,
+        "id": 27,
         "name": "carlo von lynX"
       }
     ],
@@ -642,7 +664,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 27,
+        "id": 28,
         "name": "cat spangehl"
       }
     ],
@@ -663,8 +685,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Free Software Foundation Europe e.V.",
+        "id": 29,
+        "name": "Matthias Matthias Kirschner is President of FSFE. In 1999 he started using GNU/Linux and realised that software is deeply involved in all aspects of our lives. Matthias is convinced that this technology has to empower society not restrict it. While studying Political and Administrative Science he joined F"
+      }
+    ],
+    "description": "Einige Missverst\u00e4ndnisse zu Freier Software halten sich schon seit Jahren. Zum Beispiel: 1) Freie Software ist kostenlos. 2) Mit Freier Software kann man kein Geld verdienen. 3) Wer Freie Software \u00e4ndert, muss die \u00c4nderungen wieder allen verf\u00fcgbar machen. 4) Freie Software ist (un)sicherer als propriet\u00e4re Software. 5) Freie Software ist das \u00fcberlegene Entwicklungsmodell. 6) Freie Software bringt mir nichts, wenn ich nicht programmieren kann, \u2026 Diese Missverst\u00e4ndnisse sind leider nach wie vor weit verbreitet und erschweren es, m\u00f6glichst schnell das Potential Freier Software zu nutzen.  Der Vortrag ist richtig f\u00fcr Dich, wenn Du Dich wunderst warum eine der Aussagen falsch sein soll oder Du Anregungen suchst, wie und was Du auf solche oder \u00e4hnliche Aussagen in Zukunft in unter zwei Minuten erwidern kannst.",
+    "title": "Das Freie Software 1x1: Mi\u00dfverst\u00e4ndnisse gekonnt aufkl\u00e4ren",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T16:40:00+00:00",
+    "session_id": "OT-18",
+    "location": "Room 1",
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T17:10:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 28,
+        "id": 30,
         "name": "Jenz Steiner"
       }
     ],
@@ -686,7 +730,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 29,
+        "id": 31,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -708,7 +752,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 30,
+        "id": 32,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -730,7 +774,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 31,
+        "id": 33,
         "name": "Jan Dittrich"
       }
     ],
@@ -752,7 +796,7 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 32,
+        "id": 34,
         "name": "Raimo, Markus Radczewski, Decke"
       }
     ],
@@ -766,7 +810,7 @@
     "start_time": "2016-05-05T09:00:00+00:00",
     "session_id": "W-5",
     "location": "Room 3",
-    "type": "Developer Meetup",
+    "type": "Workshop und Developer Meetup",
     "end_time": "2016-05-05T09:30:00+00:00"
   },
   {
@@ -774,7 +818,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 33,
+        "id": 35,
         "name": "Jos Poortvliet"
       }
     ],
@@ -796,7 +840,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 28,
+        "id": 30,
         "name": "Jenz Steiner"
       }
     ],
@@ -818,7 +862,7 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 32,
+        "id": 34,
         "name": "Raimo, Markus Radczewski, Decke"
       }
     ],
@@ -832,7 +876,7 @@
     "start_time": "2016-05-05T14:00:00+00:00",
     "session_id": "W-6",
     "location": "Room 3",
-    "type": "Developer Meetup",
+    "type": "Workshop und Developer Meetup",
     "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
@@ -840,7 +884,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 34,
+        "id": 36,
         "name": "Toon PETERS"
       }
     ],
@@ -862,7 +906,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 35,
+        "id": 37,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -884,7 +928,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 35,
+        "id": 37,
         "name": "Harald Maa\u00dfen"
       }
     ],
