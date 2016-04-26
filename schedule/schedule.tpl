@@ -105,7 +105,7 @@
                   <h4 class="session-title">
                     {{title}}&nbsp;
                     <a class="session-link" href="#{{session_id}}">
-                      <i class="fa fa-anchor"></i>
+                      <i class="fa fa-link"></i>
                     </a>
                   </h4>
                   <p class="session-location">
