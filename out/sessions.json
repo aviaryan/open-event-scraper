@@ -91,8 +91,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Jugend Hackt",
+        "organisation": "Yacy",
         "id": 5,
+        "name": "Michael Christen"
+      }
+    ],
+    "description": "Hauptentwickler Michael Christen zeigt uns wie wir in wenigen Schritten YaCy auf dem PC oder Handy installieren. YaCy ist eine Suchmaschine bei dem die Nutzer selbst zum Betreiber werden. Die freie Suchmaschinensoftware YaCy l\u00e4uft nicht auf einem Server im Internet, sondern auf dem eigenen Rechner und kann sich mit anderen Nutzern im Internet zusammenschalten, um die Reichweite des Suchindexes zu vergr\u00f6ssern.",
+    "title": "Unabh\u00e4ngige eigene Internet-Suche in wenigen Schritten auf dem PC installieren",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-10",
+    "location": "Room 5",
+    "type": "Exhibition Area",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Jugend Hackt",
+        "id": 6,
         "name": "Jakob Schade"
       }
     ],
@@ -114,7 +136,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 6,
+        "id": 7,
         "name": "Code Week Award"
       }
     ],
@@ -136,7 +158,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 7,
+        "id": 8,
         "name": "Cat Spangehl"
       }
     ],
@@ -158,7 +180,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 8,
+        "id": 9,
         "name": "Julia Kleeberger"
       }
     ],
@@ -180,7 +202,7 @@
     "speakers": [
       {
         "organisation": "Makeomnia Ltd / HKCOTA",
-        "id": 9,
+        "id": 10,
         "name": "Alvin Lui"
       }
     ],
@@ -202,7 +224,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 10,
+        "id": 11,
         "name": "Frederik Kramer"
       }
     ],
@@ -224,7 +246,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 11,
+        "id": 12,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -246,7 +268,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 12,
+        "id": 13,
         "name": "Elio Qoshi"
       }
     ],
@@ -268,7 +290,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 13,
+        "id": 14,
         "name": "Marius Hoch"
       }
     ],
@@ -290,7 +312,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 14,
+        "id": 15,
         "name": "Thomas Fricke"
       }
     ],
@@ -312,7 +334,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 15,
+        "id": 16,
         "name": "Barbara Fischer"
       }
     ],
@@ -334,7 +356,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 5,
+        "id": 6,
         "name": "Jakob Schade"
       }
     ],
@@ -356,7 +378,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 16,
+        "id": 17,
         "name": "Thomas Tursics"
       }
     ],
@@ -378,7 +400,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 17,
+        "id": 18,
         "name": "Erik D\u00f6rnenburg and OTS Panelists"
       }
     ],
@@ -400,7 +422,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 18,
+        "id": 19,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -422,7 +444,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days ",
-        "id": 19,
+        "id": 20,
         "name": "Lars Zimmermann"
       }
     ],
@@ -444,7 +466,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 20,
+        "id": 21,
         "name": "Rufus Pollock"
       }
     ],
@@ -466,7 +488,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 6,
+        "id": 7,
         "name": "Code Week Award"
       }
     ],
@@ -488,7 +510,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 21,
+        "id": 22,
         "name": "Zac Brown"
       }
     ],
@@ -510,7 +532,7 @@
     "speakers": [
       {
         "organisation": "unabh\u00e4ngig",
-        "id": 22,
+        "id": 23,
         "name": "Felicitas Blanck"
       }
     ],
@@ -532,7 +554,7 @@
     "speakers": [
       {
         "organisation": "Makeomnia Ltd / HKCOTA",
-        "id": 9,
+        "id": 10,
         "name": "Alvin Lui"
       }
     ],
@@ -554,7 +576,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 23,
+        "id": 24,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -576,7 +598,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 24,
+        "id": 25,
         "name": "Toon Peters"
       }
     ],
@@ -598,7 +620,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 25,
+        "id": 26,
         "name": "carlo von lynX"
       }
     ],
@@ -620,7 +642,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 26,
+        "id": 27,
         "name": "cat spangehl"
       }
     ],
@@ -642,7 +664,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 27,
+        "id": 28,
         "name": "Jenz Steiner"
       }
     ],
@@ -664,7 +686,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 28,
+        "id": 29,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -686,7 +708,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 29,
+        "id": 30,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -708,7 +730,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 30,
+        "id": 31,
         "name": "Jan Dittrich"
       }
     ],
@@ -729,8 +751,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
+        "id": 32,
+        "name": "Raimo, Markus Radczewski, Decke"
+      }
+    ],
+    "description": "\u00dcbung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschlie\u00dfend eure L\u00f6sungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn m\u00f6glich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop k\u00f6nnt ihr teilnehmen. ",
+    "title": "Coding Dojo",
+    "track": {
+      "order": 5,
+      "name": "Workshops",
+      "id": 5
+    },
+    "start_time": "2016-05-05T09:00:00+00:00",
+    "session_id": "W-5",
+    "location": "Room 3",
+    "type": "Developer Meetup",
+    "end_time": "2016-05-05T09:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "ownCloud",
-        "id": 31,
+        "id": 33,
         "name": "Jos Poortvliet"
       }
     ],
@@ -752,7 +796,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 27,
+        "id": 28,
         "name": "Jenz Steiner"
       }
     ],
@@ -773,8 +817,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Altran",
+        "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
         "id": 32,
+        "name": "Raimo, Markus Radczewski, Decke"
+      }
+    ],
+    "description": "\u00dcbung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschlie\u00dfend eure L\u00f6sungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn m\u00f6glich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop k\u00f6nnt ihr teilnehmen. ",
+    "title": "Coding Dojo",
+    "track": {
+      "order": 5,
+      "name": "Workshops",
+      "id": 5
+    },
+    "start_time": "2016-05-05T14:00:00+00:00",
+    "session_id": "W-6",
+    "location": "Room 3",
+    "type": "Developer Meetup",
+    "end_time": "2016-05-05T14:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Altran",
+        "id": 34,
         "name": "Toon PETERS"
       }
     ],
@@ -796,7 +862,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 33,
+        "id": 35,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -818,7 +884,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 33,
+        "id": 35,
         "name": "Harald Maa\u00dfen"
       }
     ],
