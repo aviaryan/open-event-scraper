@@ -411,11 +411,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T12:00:00+00:00",
+    "start_time": "2016-05-05T11:20:00+00:00",
     "session_id": "OT-07",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T12:30:00+00:00"
+    "end_time": "2016-05-05T11:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -433,11 +433,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T13:00:00+00:00",
+    "start_time": "2016-05-05T11:40:00+00:00",
     "session_id": "OT-08",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T13:30:00+00:00"
+    "end_time": "2016-05-05T12:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -455,11 +455,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T14:00:00+00:00",
+    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "OT-09",
     "location": "Room 1",
     "type": "Panel",
-    "end_time": "2016-05-05T14:30:00+00:00"
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -477,11 +477,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T15:00:00+00:00",
+    "start_time": "2016-05-05T12:20:00+00:00",
     "session_id": "OT-10",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T15:30:00+00:00"
+    "end_time": "2016-05-05T12:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -499,11 +499,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T16:00:00+00:00",
+    "start_time": "2016-05-05T12:40:00+00:00",
     "session_id": "OT-11",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:30:00+00:00"
+    "end_time": "2016-05-05T13:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -521,11 +521,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T17:00:00+00:00",
+    "start_time": "2016-05-05T13:00:00+00:00",
     "session_id": "OT-12",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:30:00+00:00"
+    "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -543,11 +543,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T18:00:00+00:00",
+    "start_time": "2016-05-05T13:20:00+00:00",
     "session_id": "OT-13",
     "location": "Room 1",
     "type": "Talk mit Live-Hack (20 Minuten)",
-    "end_time": "2016-05-05T18:30:00+00:00"
+    "end_time": "2016-05-05T13:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -565,11 +565,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T19:00:00+00:00",
+    "start_time": "2016-05-05T13:40:00+00:00",
     "session_id": "OT-14",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T19:30:00+00:00"
+    "end_time": "2016-05-05T14:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -587,11 +587,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T20:00:00+00:00",
+    "start_time": "2016-05-05T14:00:00+00:00",
     "session_id": "OT-15",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T20:30:00+00:00"
+    "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -609,11 +609,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T21:00:00+00:00",
+    "start_time": "2016-05-05T14:20:00+00:00",
     "session_id": "OT-16",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T21:30:00+00:00"
+    "end_time": "2016-05-05T14:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -631,11 +631,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-04T22:00:00+00:00",
+    "start_time": "2016-05-05T14:40:00+00:00",
     "session_id": "OT-17",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-04T22:30:00+00:00"
+    "end_time": "2016-05-05T15:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -653,11 +653,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-04T23:00:00+00:00",
+    "start_time": "2016-05-05T15:00:00+00:00",
     "session_id": "OT-18",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-04T23:30:00+00:00"
+    "end_time": "2016-05-05T15:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -675,11 +675,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T00:00:00+00:00",
+    "start_time": "2016-05-05T15:20:00+00:00",
     "session_id": "OT-19",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T00:30:00+00:00"
+    "end_time": "2016-05-05T15:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -697,11 +697,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T01:00:00+00:00",
+    "start_time": "2016-05-05T15:40:00+00:00",
     "session_id": "OT-20",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T01:30:00+00:00"
+    "end_time": "2016-05-05T16:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -719,11 +719,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T02:00:00+00:00",
+    "start_time": "2016-05-05T16:00:00+00:00",
     "session_id": "OT-21",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T02:30:00+00:00"
+    "end_time": "2016-05-05T16:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -741,11 +741,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T03:00:00+00:00",
+    "start_time": "2016-05-05T16:20:00+00:00",
     "session_id": "OT-22",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T03:30:00+00:00"
+    "end_time": "2016-05-05T16:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -763,11 +763,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T04:00:00+00:00",
+    "start_time": "2016-05-05T16:40:00+00:00",
     "session_id": "OT-23",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T04:30:00+00:00"
+    "end_time": "2016-05-05T17:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -785,11 +785,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T16:40:00+00:00",
+    "start_time": "2016-05-05T17:00:00+00:00",
     "session_id": "OT-24",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:10:00+00:00"
+    "end_time": "2016-05-05T17:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -807,11 +807,11 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T17:00:00+00:00",
+    "start_time": "2016-05-05T17:20:00+00:00",
     "session_id": "OT-25",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:30:00+00:00"
+    "end_time": "2016-05-05T17:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -829,33 +829,33 @@
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T17:20:00+00:00",
+    "start_time": "2016-05-05T17:40:00+00:00",
     "session_id": "OT-26",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:50:00+00:00"
+    "end_time": "2016-05-05T18:10:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Open Knowledge Foundation Deutschland",
+        "organisation": "Kinvolk GmbH",
         "id": 35,
-        "name": "Maximilian Richt"
+        "name": "Chris K\u00fchl"
       }
     ],
-    "description": "Am Anfang stand eine Gerichtsentscheidung: Letzten Herbst entschied das Bundesverwaltungsgericht, dass der Bundestag ein Gutachten seines wissenschaftlichen Dienstes herausgeben muss, wenn eine IFG-Anfrage dazu gestellt wird.  Aber anstatt von selbst s\u00e4mtliche bisherigen Gutachten zu ver\u00f6ffentlichen, entschied sich der Bundestag, so wenig wie m\u00f6glich herauszugeben - bis wir die Kampagne \"FragDenBundestag\" starteten. Mit der Hilfe von tausenden Usern wurden mehr als 2.000 IFG-Anfragen gestellt, um Gutachten des Wissenschaftlichen Dienstes \u00f6ffentlich zu machen. Dies bewegte letztendlich den Bundestag dazu, St\u00fcck f\u00fcr St\u00fcck von selbst zu ver\u00f6ffentlichen.  In diesem Talk stelle ich die Plattformen sehrgutachten.de und kleineAnfragen.de vor, die einen einfacheren Zugang zu staatlichen Dokumenten erm\u00f6glichen und gehe auf die Schwierigkeiten ein, die entstehen, wenn man versucht, die eigene Regierung etwas transparenter zu machen.",
-    "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten",
+    "description": "Linux container technologies are an effective way to isolate processes while saving system resources. This translates directly to lower hosting costs as opposed to running full VMs.  rkt is a modular and secure container runtime for Linux systems. In this talk we'll first give a general overview of the project and then demonstrate how to use it.  The overview will include why it exists, what it is, how it works and what makes it unique. The demonstration will show how to build an Application Container Image (ACI), share the ACI, run ACIs and Docker images and use various utility functions rkt provides.",
+    "title": "The rkt container runtime; explaination and demonstration",
     "track": {
       "order": 3,
       "name": "Galerie",
       "id": 3
     },
-    "start_time": "2016-05-05T17:40:00+00:00",
+    "start_time": "2016-05-05T18:20:00+00:00",
     "session_id": "OT-27",
     "location": "Room 1",
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T18:10:00+00:00"
+    "end_time": "2016-05-05T18:50:00+00:00"
   },
   {
     "py/object": "models.Session",

@@ -443,16 +443,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "https://robbi5.de",
-    "github": "robbi5",
-    "name": "Maximilian Richt",
-    "country": "Deutschland",
-    "twitter": "robbi5",
-    "linkedin": "",
+    "web": "https://kinvolk.io",
+    "github": "https://github.com/blixtra",
+    "name": "Chris K\u00fchl",
+    "country": "Germany",
+    "twitter": "@blixtra",
+    "linkedin": "https://www.linkedin.com/in/christopherk1",
     "id": 35,
-    "photo": "https://robbi5.de/img/photo.jpg",
-    "organisation": "Open Knowledge Foundation Deutschland",
-    "biography": "Maximilian Richt ist ehrenamtlich bei der Open Knowledge Foundation Deutschland und besch\u00e4ftigt sich mit der \u00d6ffnung und Durchsuchbarkeit von Daten.  Sonst verbringt er viel Zeit in Z\u00fcgen, die hin und wieder zu Projekten wie kleineAnfragen.de f\u00fchrt."
+    "photo": "https://kinvolk.io/img/team/team-chris.jpg",
+    "organisation": "Kinvolk GmbH",
+    "biography": "After getting hooked on free and open source software as a hobby through the GNOME project, Chris was able to turn this passion into a career and has since co-founded Kinvolk in Berlin, which focuses exclusively on open source software engineering for foundational Linux technologies: the Linux kernel, systemd, rkt, etc.  Chris is an active member of the Berlin open source community. He helps organize the Berlin meetups for CoreOS and systemd, the Berlin Open Source Eats-n-Drinks Meetup and works with the systemd team to organize systemd.conf."
   },
   {
     "py/object": "models.Speaker",
