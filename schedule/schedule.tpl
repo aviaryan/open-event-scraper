@@ -135,7 +135,7 @@
                     </p>
                     <div class="session-speakers-more">
                       <p>
-                        <span class="session-speaker-bio">{{biography}}</span>
+                        <span class="session-speaker-bio">{{#linkify}}{{biography}}{{/linkify}}</span>
                       </p>
                       <p class="session-speaker-social">
                         {{#if web}}
