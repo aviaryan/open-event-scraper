@@ -861,8 +861,30 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Syria on the Move, SocialVisions e.V.",
+        "organisation": "Bioflux",
         "id": 36,
+        "name": "R\u00fcdiger Trojok"
+      }
+    ],
+    "description": "Bioflux democratises Life Science with the automated Personal Laboratory. Making research collaborative, open and affordable for everyone. The Personal Lab shrinks a biology lab into a portable, affordable and automated device for point of care diagnostics and personalised drug production. High labor costs restrict rapid prototyping in life sciences inhibiting development of point-of-care diagnostics and personalized drugs for plants, animals and  humans. Existing automation robots used in the pharmaceutical industry are costly and only  economic for high revenue drug production controlled by monopolistic multinationals. This leaves many urgent, but scientifically solvable, environmental and  health problems untouched.  We are developing the Personal Lab as a new platform for scientific literate citizens to read and write biological code. The Personal Lab is a portable and affordable device enabling automated and programmable execution of biological protocols, increasing efficiency up to 100000X.  This will allow a community of users to collaboratively program and test new protocols and create bioapplications to e.g. solve the antibiotic crisis. We have established a network of hardware and software engineers and biologists that developed a prototype of a Personal Lab and are embedded in the global DIYbio scene and thereby quickly spead our technology . We will provide you with Biochips containing all needed reagents and a software that offers unlimited options to code your own bioapplications and share them with the community. Join us in this open source hardware project and start coding biology!",
+    "title": "Bioflux - A Personal Laboratory for everyone",
+    "track": {
+      "order": 3,
+      "name": "Galerie",
+      "id": 3
+    },
+    "start_time": "2016-05-05T18:40:00+00:00",
+    "session_id": "OT-28",
+    "location": "Room 1",
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T19:10:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Syria on the Move, SocialVisions e.V.",
+        "id": 37,
         "name": "Jenz Steiner"
       }
     ],
@@ -884,7 +906,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 37,
+        "id": 38,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -906,7 +928,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 38,
+        "id": 39,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -950,7 +972,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 39,
+        "id": 40,
         "name": "Jan Dittrich"
       }
     ],
@@ -972,7 +994,7 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 40,
+        "id": 41,
         "name": "Raimo, Markus Radczewski, Decke"
       }
     ],
@@ -994,7 +1016,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 41,
+        "id": 42,
         "name": "Jos Poortvliet"
       }
     ],
@@ -1016,7 +1038,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 36,
+        "id": 37,
         "name": "Jenz Steiner"
       }
     ],
@@ -1038,7 +1060,7 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 40,
+        "id": 41,
         "name": "Raimo, Markus Radczewski, Decke"
       }
     ],
@@ -1060,7 +1082,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 42,
+        "id": 43,
         "name": "Toon PETERS"
       }
     ],
@@ -1082,7 +1104,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 43,
+        "id": 44,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1104,7 +1126,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 43,
+        "id": 44,
         "name": "Harald Maa\u00dfen"
       }
     ],

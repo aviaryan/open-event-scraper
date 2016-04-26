@@ -119,8 +119,8 @@ def parse_row(row, last_speaker, last_session, current_track):
         speaker.web = row["Website or Blog"]
         speaker.linkedin = parser.get_linkedin_url(row)
         speaker.biography = row["Please provide a short bio for the program"]
-        speaker.github = row["github"]
-        speaker.twitter = row["twitter"]
+        speaker.github = ensure_social_link('https://github.com', row["github"])
+        speaker.twitter = ensure_social_link('https://twitter.com', row["twitter"])
         speaker.country = row["Country/Region of Origin"]
 
         if hasattr(speaker, 'photo'):
@@ -259,6 +259,18 @@ def validate_sessions(sessions):
     else:
         logging.info('All fine')
         return True
+
+def ensure_social_link(website, link):
+    """
+    converts usernames of social profiles to full profile links
+    if link is username, prepend website to it else return the link
+    """
+    if link == '' or link is None:
+        return link
+    if link.find('/') != -1: # has backslash, so not a username
+        return link
+    else:
+        return website + '/' + link
 
 
 if __name__ == "__main__":
