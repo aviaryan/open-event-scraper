@@ -1,79 +1,79 @@
 { "tracks":[
   {
-    "gid": "1760580974",
-    "location": "Erdgeschoss, Saal",
-    "order": 2,
-    "py/object": "models.Track",
-    "header_line": 2,
     "id": 2,
-    "name": "Maker Space",
+    "py/object": "models.Track",
+    "gid": "1760580974",
+    "header_line": 2,
+    "order": 2,
     "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
+    "track_image_url": "http://lorempixel.com/400/200",
+    "location": "Erdgeschoss, Saal",
+    "name": "Maker Space"
   },
   {
-    "gid": "1407536099",
-    "location": "Erdgeschoss und Ebene 1",
-    "order": 3,
-    "py/object": "models.Track",
-    "header_line": 2,
     "id": 3,
-    "name": "Workshops",
-    "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
-  },
-  {
-    "gid": "1549016393",
-    "location": "Ebene 1, Galerie",
-    "order": 4,
     "py/object": "models.Track",
+    "gid": "1407536099",
     "header_line": 2,
-    "id": 4,
-    "name": "LightningTalks",
+    "order": 3,
     "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
-  },
-  {
-    "gid": "11336237",
-    "location": "Ebene 1, Galerie",
-    "order": 5,
-    "py/object": "models.Track",
-    "header_line": 2,
-    "id": 5,
-    "name": "OTS 1",
-    "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
-  },
-  {
-    "gid": "2134915567",
-    "location": "Ebene 2, Loft",
-    "order": 6,
-    "py/object": "models.Track",
-    "header_line": 2,
-    "id": 6,
-    "name": "OTS 2",
-    "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
-  },
-  {
-    "gid": "79278252",
+    "track_image_url": "http://lorempixel.com/400/200",
     "location": "Erdgeschoss und Ebene 1",
-    "order": 7,
-    "py/object": "models.Track",
-    "header_line": 2,
-    "id": 7,
-    "name": "Kids Camp",
-    "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
+    "name": "Workshops"
   },
   {
-    "gid": "1996047265",
-    "location": "Ebene 2, Raum 4",
-    "order": 8,
+    "id": 4,
     "py/object": "models.Track",
+    "gid": "1549016393",
     "header_line": 2,
-    "id": 8,
-    "name": "Linux-Zertifizierung",
+    "order": 4,
     "key_color": "#3DC8C3",
-    "track_image_url": "http://lorempixel.com/400/200"
+    "track_image_url": "http://lorempixel.com/400/200",
+    "location": "Ebene 1, Galerie",
+    "name": "LightningTalks"
+  },
+  {
+    "id": 5,
+    "py/object": "models.Track",
+    "gid": "11336237",
+    "header_line": 2,
+    "order": 5,
+    "key_color": "#3DC8C3",
+    "track_image_url": "http://lorempixel.com/400/200",
+    "location": "Ebene 1, Galerie",
+    "name": "OTS 1"
+  },
+  {
+    "id": 6,
+    "py/object": "models.Track",
+    "gid": "2134915567",
+    "header_line": 2,
+    "order": 6,
+    "key_color": "#3DC8C3",
+    "track_image_url": "http://lorempixel.com/400/200",
+    "location": "Ebene 2, Loft",
+    "name": "OTS 2"
+  },
+  {
+    "id": 7,
+    "py/object": "models.Track",
+    "gid": "79278252",
+    "header_line": 2,
+    "order": 7,
+    "key_color": "#3DC8C3",
+    "track_image_url": "http://lorempixel.com/400/200",
+    "location": "Erdgeschoss und Ebene 1",
+    "name": "Kids Camp"
+  },
+  {
+    "id": 8,
+    "py/object": "models.Track",
+    "gid": "1996047265",
+    "header_line": 2,
+    "order": 8,
+    "key_color": "#3DC8C3",
+    "track_image_url": "http://lorempixel.com/400/200",
+    "location": "Ebene 2, Raum 4",
+    "name": "Linux-Zertifizierung"
   }
 ]}
